@@ -15,3 +15,5 @@ docs/build/html/*
 .venv
 .env
 t.py
+.idea/
+env/
